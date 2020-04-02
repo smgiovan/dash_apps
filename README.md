@@ -1,1 +1,1 @@
-# dash_apps_test
+# generic dash app starting project folder structure
